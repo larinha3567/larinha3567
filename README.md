@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @larinha
+- 👋 Hi, I’m @laurinha 
 - 👀 I’m interested in aprender desenvolever o github e as plataformas digitais 
 - 🌱 I’m currently learning aprender as usar o alura e o github
 - 💞️ I’m looking to collaborate on me ajudar nas coisas que tenho dificuldade
